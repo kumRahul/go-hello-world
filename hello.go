@@ -3,7 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	for i := 1; i <= 10; i++ {
-		fmt.Println("Hello World: ", i)
-	}
+	fmt.Println("Demo project to insert version details into DB")
 }
